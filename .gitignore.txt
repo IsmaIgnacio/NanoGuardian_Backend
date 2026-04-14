@@ -1,0 +1,16 @@
+# Archivos compilados
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# Archivos de usuario
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
